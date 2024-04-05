@@ -22,6 +22,14 @@
 // $s=($a>0 and $b>0 $c>0);
 // echo $s;
 
+// 14-misol.
+// $a=4;
+// $b=8;
+// $c=1;
+// $s=($a<0 and $b<0 and $c>0) or ($a<0 and $b>0 and $c<0) or ($a>0 and $b<0 and $c<0);
+// echo $s;
+
+
 // 20-misol.
 // $n=123;
 // $a=round($n%10);
